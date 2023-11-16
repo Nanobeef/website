@@ -1,9 +1,10 @@
 export default {
   async fetch(request) {
     const data = {
-      message: "Hello Js Craft!",
+      message: "Hello !",
       number: 42,
-      float: 32.5555,
+      float: 32.5556,
+      api_1: API_KEY_2,
     };
 
     const json = JSON.stringify(data, null, 2);

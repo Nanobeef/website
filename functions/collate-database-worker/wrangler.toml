@@ -1,16 +1,12 @@
 name = "collate-database-worker"
-main = "src/index.ts"
+main = "src/worker.js"
 compatibility_date = "2023-11-16"
-usage_model = "standard"
 env = { }
 
-[route]
-pattern = "elieichner.com/database"
-zone_name = ""
-script = "collate-database-worker"
 
 [triggers]
 crons = [ ]
 
 [vars]
 API_KEY = "12"
+API_KEY_2 = "123235bujsdfk"
