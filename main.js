@@ -1,4 +1,6 @@
 
+require('dotenv').config();
+console.log(process.env);
 
 async function main(){
 
@@ -9,6 +11,7 @@ async function main(){
 
  	//const url = "https://database.elieichner.com";
     const url = "https://elieichner.com/database";
+	var url = CF
 	
 	
 
