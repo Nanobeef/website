@@ -8,7 +8,7 @@ async function main(){
 
 
  	//const url = "https://database.elieichner.com";
-    const url = "https://collate-database-worker.elijah-eichner.workers.dev/";
+    const url = "https://elieichner.com/database";
 
     const init = {
       headers: {
