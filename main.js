@@ -1,6 +1,6 @@
 
 
 function main(){
-	getElementById("Output").innerText = "Hello, is this working?";
+	document.getElementById("Output").innerText = "Hello, is this working?";
 	console.log("Hello");
 }
