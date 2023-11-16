@@ -8,8 +8,7 @@ async function main(){
 
 
  	//const url = "https://database.elieichner.com";
-   // const url = "https://elieichner.com/database";
-    const url = CF_PAGES_URL + "/database";
+    const url = "https://elieichner.com/database";
 	
 	
 
