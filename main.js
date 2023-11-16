@@ -21,6 +21,6 @@ async function main(){
 	console.log(json["message"]);
 	console.log(json["number"]);
 	console.log(json["float"]);
-	console.log(json["api_1"]);
+	console.log(json["api"]);
 }
 
